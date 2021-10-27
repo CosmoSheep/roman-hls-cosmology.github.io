@@ -146,5 +146,21 @@ Publications supported or partially supported by our Science Investigation Team 
 
 #### 68. *Information Content of Higher-Order Galaxy Correlation Functions*, Samushia, Slepian, Villaescusa-Navarro [arXiv](https://arxiv.org/abs/2102.01696)
 
+#### 69. *The Outer Stellar Mass of Massive Galaxies: A Simple Tracer of Halo Mass with Scatter Comparable to Richness and Reduced Projection Effects*,  Huang, Leauthaud et al. [arXiv](https://arxiv.org/abs/2109.02646)
+
+#### 70. *Impact of Image Persistence in the Roman Space Telescope High-Latitude Survey*, Lin, Mandelbaum, et al. [arXiv](https://arxiv.org/abs/2106.10273)
+
+#### 71. *Detecting dark matter subhalos with the Nancy Grace Roman Space Telescope*, Pardo, Doré [arXiv](https://arxiv.org/abs/2108.10886)
+
+#### 72. *Harmonic analysis of isotropic fields on the sphere with arbitrary masks*, Grasshorn Gebhardt, Doré [arXiv](https://arxiv.org/abs/2109.13352)
+
+#### 73. *The High Latitude Spectroscopic Survey on the Nancy Grace Roman Space Telescope*, Wang, Zhai et al. [arXiv](https://arxiv.org/abs/2110.01829)
+
+#### 74. *HIFlow: Generating Diverse HI Maps Conditioned on Cosmology using Normalizing Flow*, Hassan, Villaescusa-Navarro et al. [arXiv](https://arxiv.org/abs/2110.02983)
+
+#### 75. *Quantum yield and charge diffusion in the Nancy Grace Roman Space Telescope infrared detectors*, Givans, Choi et al. [arXiv](https://arxiv.org/abs/2110.08155)
+
+
+
 ---
 
