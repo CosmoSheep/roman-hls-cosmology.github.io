@@ -160,7 +160,7 @@ Publications supported or partially supported by our Science Investigation Team 
 
 #### 75. *Quantum yield and charge diffusion in the Nancy Grace Roman Space Telescope infrared detectors*, Givans, Choi et al. [arXiv](https://arxiv.org/abs/2110.08155)
 
-
+#### 76. *The RSD Sorting Hat: Unmixing Radial Scales in Projection*, Taylor, Markovič, et al. [arXiv](https://arxiv.org/abs/2106.05293)
 
 ---
 
