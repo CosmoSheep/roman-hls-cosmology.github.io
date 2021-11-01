@@ -162,5 +162,7 @@ Publications supported or partially supported by our Science Investigation Team 
 
 #### 76. *The RSD Sorting Hat: Unmixing Radial Scales in Projection*, Taylor, Markovič, et al. [arXiv](https://arxiv.org/abs/2106.05293)
 
+#### 77. *Linear bias and halo occupation distribution of emission line galaxies from Nancy Grace Roman Space Telescope*, Zhai, Wang, et al. [arXiv](https://arxiv.org/abs/2103.11063)
+
 ---
 
