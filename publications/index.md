@@ -164,5 +164,7 @@ Publications supported or partially supported by our Science Investigation Team 
 
 #### 77. *Linear bias and halo occupation distribution of emission line galaxies from Nancy Grace Roman Space Telescope*, Zhai, Wang, et al. [arXiv](https://arxiv.org/abs/2103.11063)
 
+#### 78. *The Outer Stellar Mass of Massive Galaxies: A Simple Tracer of Halo Mass with Scatter Comparable to Richness and Reduced Projection Effects*,  Huang, Leauthaud, et al. [ads](https://ui.adsabs.harvard.edu/abs/2021arXiv210902646H/abstract)
+
 ---
 
