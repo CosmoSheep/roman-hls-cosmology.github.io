@@ -166,5 +166,7 @@ Publications supported or partially supported by our Science Investigation Team 
 
 #### 78. *The Outer Stellar Mass of Massive Galaxies: A Simple Tracer of Halo Mass with Scatter Comparable to Richness and Reduced Projection Effects*,  Huang, Leauthaud, et al. [ads](https://ui.adsabs.harvard.edu/abs/2021arXiv210902646H/abstract)
 
+#### 79. *The GIGANTES dataset: precision cosmology from voids in the machine learning era*, Kreisch, Pisani, Villaescusa-Navarro, Spergel et al. [arXiv](https://arxiv.org/abs/2107.02304#)
+
 ---
 
