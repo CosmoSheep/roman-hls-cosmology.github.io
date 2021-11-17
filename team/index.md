@@ -40,6 +40,7 @@ We have assembled a team with the expertise and commitment needed to address the
 - Chien-Hao Lin (Duke)
 - Niall MacCrann (OSU)
 - Silva Makana (OSU)
+- Andrés Alejandro Plazas Malagón
 - Rachel Mandelbaum (CMU)
 - Dida Markovic (JPL)
 - Elena Massara (U Waterloo)
