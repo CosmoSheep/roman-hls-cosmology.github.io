@@ -168,5 +168,7 @@ Publications supported or partially supported by our Science Investigation Team 
 
 #### 79. *The GIGANTES dataset: precision cosmology from voids in the machine learning era*, Kreisch, Pisani, Villaescusa-Navarro, Spergel et al. [arXiv](https://arxiv.org/abs/2107.02304#)
 
+#### 80. *Cosmology with the Roman Space Telescope -- Synergies with CMB lensing*, Wenzl et al. [arXiv](https://arxiv.org/abs/2112.07681)
+
 ---
 
