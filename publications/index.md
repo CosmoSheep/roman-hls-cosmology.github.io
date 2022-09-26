@@ -174,5 +174,7 @@ Publications supported or partially supported by our Science Investigation Team 
 
 #### 82. *Weak gravitational lensing shear estimation with METACALIBRATION for the Roman High-Latitude Imaging Survey*, Yamamoto, Troxel, et al. [arXiv](https://arxiv.org/abs/2203.08845)
 
+#### 83. *The High Latitude Spectroscopic Survey on the Nancy Grace Roman Space Telescope*, Wang et al. [arXiv](https://arxiv.org/abs/2110.01829)
+
 ---
 
