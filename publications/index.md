@@ -170,5 +170,9 @@ Publications supported or partially supported by our Science Investigation Team 
 
 #### 80. *Cosmology with the Roman Space Telescope -- Synergies with CMB lensing*, Wenzl et al. [arXiv](https://arxiv.org/abs/2112.07681)
 
+#### 81. *A Joint Roman Space Telescope and Rubin Observatory Synthetic Wide-Field Imaging Survey*, Troxel et al. [arXiv](https://arxiv.org/abs/2209.06829)
+
+#### 82. *Weak gravitational lensing shear estimation with METACALIBRATION for the Roman High-Latitude Imaging Survey*, Yamamoto, Troxel, et al. [arXiv](https://arxiv.org/abs/2203.08845)
+
 ---
 
